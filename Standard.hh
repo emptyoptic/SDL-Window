@@ -18,9 +18,3 @@ typedef uint8_t u8;
 
 typedef float f32;
 typedef double f64;
-
-/*
-
-Short definitions are better in my opinion!
-
-*/
